@@ -1,0 +1,13 @@
+.contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+ 
+ 
+  }
+  
+  .car {
+    flex: 0 0 calc(100% / 5);
+    box-sizing: border-box;
+    margin: 10px;
+  }
